@@ -1,0 +1,20 @@
+name                                                            min_d0x max_d0x min_d0y max_d0y initial_gpos_x  k1      k2      a       b
+recoDataSimple_6363_4plane_offset0_0.root                      -0.39  -0.29  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6360_4plane_offset0_0.root                      -0.45  -0.35  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6355_4plane_offset0_0.root                      -0.48  -0.38  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6351_4plane_offset0_0.root                      -0.50  -0.40  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6354_4plane_offset0_0.root                      -0.53  -0.43  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6357_4plane_offset0_0.root                      -0.54  -0.44  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6361_4plane_offset0_0.root                      -0.59  -0.49  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6364_4plane_offset0_0.root                      -0.69  -0.59  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6365_4plane_offset0_0.root                      -0.99  -0.89  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+
+recoDataSimple_6362_4plane_offset0_6363.root                      -0.39  -0.29  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6362_4plane_offset0_6360.root                      -0.45  -0.35  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6356_4plane_offset0_6355.root                      -0.48  -0.38  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6350_4plane_offset0_6351.root                      -0.50  -0.40  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6356_4plane_offset0_6354.root                      -0.53  -0.43  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6356_4plane_offset0_6357.root                      -0.54  -0.44  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6362_4plane_offset0_6361.root                      -0.59  -0.49  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6362_4plane_offset0_6364.root                      -0.69  -0.59  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6
+recoDataSimple_6362_4plane_offset0_6365.root                      -0.99  -0.89  -10.0  10.0    1570805.100           0.0e-6 	 0.0e-6 	 0.000 	 0.000e-6

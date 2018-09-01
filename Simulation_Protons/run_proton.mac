@@ -1,0 +1,11 @@
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+
+/run/initialize
+
+# Proton
+/gun/particle proton
+/gun/energy 400.0 GeV
+
+/run/beamOn 1000000

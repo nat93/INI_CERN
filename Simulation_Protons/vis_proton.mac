@@ -1,0 +1,16 @@
+/run/verbose 1
+/event/verbose 0
+/tracking/verbose 0
+
+/run/initialize
+/vis/open HepRepFile
+/vis/drawVolume
+/vis/scene/add/trajectories
+/vis/scene/endOfEventAction accumulate
+
+# Proton
+/gun/particle proton
+/gun/energy 400.0 GeV
+
+/run/beamOn 10
+
